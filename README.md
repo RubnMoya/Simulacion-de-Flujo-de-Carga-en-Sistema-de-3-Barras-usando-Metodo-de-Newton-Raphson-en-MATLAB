@@ -96,13 +96,13 @@ El proyecto incluye una interfaz desarrollada en MATLAB App Designer que permite
 Capturas del proyecto
 
 🔹 Interfaz de la aplicación
-![App](screenshots/app.png)
+![App](results/app.png)
 
 🔹 Perfil de voltajes
-![Voltajes](results/voltage_profile.png)
+![Voltajes](results/graficavoltage.png)
 
 🔹 Convergencia del método
-![Convergencia](results/convergence.png)
+![Convergencia](results/convergencia.png)
 
 ---
 
