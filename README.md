@@ -96,19 +96,16 @@ El proyecto incluye una interfaz desarrollada en MATLAB App Designer que permite
 Capturas del proyecto
 
 🔹 Interfaz de la aplicación
+
 ![App](results/app.png)
 
 🔹 Perfil de voltajes
+
 ![Voltajes](results/graficavoltage.png)
 
 🔹 Convergencia del método
+
 ![Convergencia](results/convergencia.png)
 
 ---
 
-Cómo ejecutar el proyecto
-
-1. Abrir MATLAB
-2. Ejecutar el archivo:
-   ```matlab
-   main.m
